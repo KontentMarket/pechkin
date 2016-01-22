@@ -1,0 +1,8 @@
+{
+    "host": "smtp.yandex.ru",
+    "port": 587,
+    "auth": {
+        "user": "user@yandex.ru",
+        "pass": "password"
+    }
+}
